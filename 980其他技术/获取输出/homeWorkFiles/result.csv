@@ -1,0 +1,185 @@
+﻿文件名,结果序号,输出结果
+作业测试.txt,1,"H
+"
+作业测试.txt,2,"e
+"
+作业测试.txt,3,"l
+"
+作业测试.txt,4,"l
+"
+作业测试.txt,5,"o
+"
+作业测试.txt,6,",
+"
+作业测试.txt,7," 
+"
+作业测试.txt,8,"w
+"
+作业测试.txt,9,"o
+"
+作业测试.txt,10,"r
+"
+作业测试.txt,11,"l
+"
+作业测试.txt,12,"d
+"
+作业测试.txt,13,"!
+"
+作业测试.txt,14,"来
+"
+作业测试.txt,15,"啦
+"
+作业测试.txt,16,"老
+"
+作业测试.txt,17,"弟
+"
+作业测试.txt,18,"
+"
+作业测试.txt,19,"The Thematic-Forum on Think Tank Exchanges was held by the Publicity Department of the CPC Central Committee. 
+"
+作业测试.txt,20,"More than 300 think tank and media representatives from over 60 countries and regions attended the forum.
+"
+作业测试.txt,21,"
+"
+作业测试.txt,22,"['The', 'Thematic-Forum', 'on', 'Think', 'Tank', 'Exchanges', 'was', 'held', 'by', 'the', 'Publicity', 'Department', 'of', 'the', 'CPC', 'Central', 'Committee.', 'More', 'than', '300', 'think', 'tank', 'and', 'media', 'representatives', 'from', 'over', '60', 'countries', 'and', 'regions', 'attended', 'the', 'forum.']
+"
+作业测试.txt,23,"['\nThe', 'Thematic-Forum on Think Tank Exchanges was held by the Publicity Department of the CPC Central Committee. \nMore than 300 think tank and media representatives from over 60 countries and regions attended the forum.\n']
+"
+作业测试.txt,24,"['The', 'Thematic-Forum', 'on', 'Think', 'Tank', 'Exchanges', 'was', 'held', 'by', 'the', 'Publicity', 'Department', 'of', 'the', 'CPC', 'Central', 'Committee', 'More', 'than', '300', 'think', 'tank', 'and', 'media', 'representatives', 'from', 'over', '60', 'countries', 'and', 'regions', 'attended', 'the', 'forum']
+"
+作业测试.txt,25,"['The', 'Thematic-Forum', 'on', 'Think', 'Tank', 'Exchanges', 'was', 'held', 'by', 'the', 'Publicity', 'Department', 'of', 'the', 'CPC', 'Central', 'Committee', 'More', 'than', '300', 'think', 'tank', 'and', 'media', 'representatives', 'from', 'over', '60', 'countries', 'and', 'regions', 'attended', 'the', 'forum']
+"
+作业测试.txt,26,"['the', 'thematic-forum', 'on', 'think', 'tank', 'exchanges', 'was', 'held', 'by', 'the', 'publicity', 'department', 'of', 'the', 'cpc', 'central', 'committee', 'more', 'than', '300', 'think', 'tank', 'and', 'media', 'representatives', 'from', 'over', '60', 'countries', 'and', 'regions', 'attended', 'the', 'forum']
+"
+作业测试.txt,27,"the-thematic-forum-on-think-tank-exchanges-was-held-by-the-publicity-department-of-the-cpc-central-committee-more-than-300-think-tank-and-media-representatives-from-over-60-countries-and-regions-attended-the-forum-
+"
+作业测试.txt,28,"the-thematic-forum-on-think-tank-exchanges-was-held-by-the-publicity-department-of-the-cpc-central-committee-more-than-300-think-tank-and-media-representatives-from-over-60-countries-and-regions-attended-the-forum
+"
+作业测试.txt,29,"the-thematic-forum-on-think-tank-exchanges-was-held-by-the-publicity-department-of-the-cpc-central-committee-more-than-300-think-tank-and-media-representatives-from-over-60-countries-and-regions-attended-the-forum
+"
+基本类型(010简单类型).txt,1,"Hello world!
+"
+基本类型(010简单类型).txt,2,"Hello world!
+"
+基本类型(010简单类型).txt,3,"4
+"
+基本类型(010简单类型).txt,4,"0
+"
+基本类型(010简单类型).txt,5,"2
+"
+基本类型(010简单类型).txt,6,"8
+"
+基本类型(010简单类型).txt,7,"2.0
+"
+基本类型(010简单类型).txt,8,"23.88
+"
+基本类型(010简单类型).txt,9,"23.869999999999997
+"
+基本类型(010简单类型).txt,10,"Helloworld
+"
+基本类型(010简单类型).txt,11,"Hello world
+"
+基本类型(010简单类型).txt,12,"Hello Hello Hello 
+"
+基本类型(015字符串处理).txt,1,"""我是学生""的英语为：I'm student.
+"
+基本类型(015字符串处理).txt,2,"""我是学生""的英语为：I'm student.
+"
+基本类型(015字符串处理).txt,3,"	""我是学生""的英语为：I'm student.
+"
+基本类型(015字符串处理).txt,4,"""我是学生""的英语为：
+"
+基本类型(015字符串处理).txt,5,"I'm student.
+"
+基本类型(015字符串处理).txt,6,"\""我是学生\""的英语为：I'm student.
+"
+基本类型(015字符串处理).txt,7,"""我是学生""的英语为：I\'m student.
+"
+基本类型(015字符串处理).txt,8,"True
+"
+基本类型(015字符串处理).txt,9,"False
+"
+基本类型(015字符串处理).txt,10,"True
+"
+基本类型(015字符串处理).txt,11,"False
+"
+基本类型(015字符串处理).txt,12,"HELLO WORLD!
+"
+基本类型(015字符串处理).txt,13,"hello world!
+"
+基本类型(015字符串处理).txt,14,"   Hello world!    
+"
+基本类型(015字符串处理).txt,15,"Hello world!
+"
+基本类型(015字符串处理).txt,16,"   Hello world!
+"
+基本类型(015字符串处理).txt,17,"Hello world!    
+"
+基本类型(020变量定义).txt,1,"Hello world!
+"
+基本类型(020变量定义).txt,2,"Hello china!
+"
+基本类型(020变量定义).txt,3,"<class 'str'>
+"
+基本类型(020变量定义).txt,4,"<class 'int'>
+"
+基本类型(020变量定义).txt,5,"<class 'float'>
+"
+基本类型(020变量定义).txt,6,"20.0
+"
+基本类型(020变量定义).txt,7,"<class 'float'>
+"
+基本类型(020变量定义).txt,8,"Hello World!
+"
+基本类型(020变量定义).txt,9,"<class 'str'>
+"
+类型转换(045类型转换).txt,1,"I am 45 years old.
+"
+类型转换(045类型转换).txt,2,"After 10 years, I am 55 years old.
+"
+类型转换(045类型转换).txt,3,"After 10 years, I am 55 years old.
+"
+逻辑运算(050逻辑操作).txt,1,"True
+"
+逻辑运算(050逻辑操作).txt,2,"False
+"
+逻辑运算(050逻辑操作).txt,3,"True
+"
+逻辑运算(050逻辑操作).txt,4,"False
+"
+逻辑运算(050逻辑操作).txt,5,"True
+"
+逻辑运算(050逻辑操作).txt,6,"False
+"
+逻辑运算(050逻辑操作).txt,7,"False
+"
+逻辑运算(050逻辑操作).txt,8,"True
+"
+逻辑运算(050逻辑操作).txt,9,"False
+"
+逻辑运算(050逻辑操作).txt,10,"True
+"
+逻辑运算(050逻辑操作).txt,11,"True
+"
+逻辑运算(050逻辑操作).txt,12,"True
+"
+逻辑运算(050逻辑操作).txt,13,"False
+"
+逻辑运算(050逻辑操作).txt,14,"True
+"
+逻辑运算(050逻辑操作).txt,15,"True
+"
+逻辑运算(050逻辑操作).txt,16,"False
+"
+逻辑运算(050逻辑操作).txt,17,"False
+"
+逻辑运算(050逻辑操作).txt,18,"True
+"
+逻辑运算(050逻辑操作).txt,19,"True
+"
+逻辑运算(050逻辑操作).txt,20,"False
+"
+逻辑运算(050逻辑操作).txt,21,"False
+"
+逻辑运算(050逻辑操作).txt,22,"True
+"

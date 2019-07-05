@@ -1,0 +1,6 @@
+#code-runner 中文乱码配置解决代码
+code-runner.executorMap": {
+....
+"python": "set PYTHONIOENCODING=utf8 && python",
+....
+}
